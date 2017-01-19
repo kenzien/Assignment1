@@ -1,2 +1,0 @@
-PATH=$PATH:./
-alias mkdir= "makdir -p"
